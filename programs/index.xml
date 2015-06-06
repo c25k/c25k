@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programs on Couch to 5K</title>
+    <link>http://localhost:1313/programs/</link>
+    <description>Recent content in Programs on Couch to 5K</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+    
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 UTC</lastBuildDate>
+    <atom:link href="http://localhost:1313/programs/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Plans</title>
+      <link>http://localhost:1313/programs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/programs/</guid>
+      <description>
+
+&lt;h2 id=&#34;donate-now:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Donate Now!&lt;/h2&gt;
+
+&lt;form style=&#34;margin: 30px 0; padding: 15px 30px; background: #f6f6f6;&#34; action=&#34;https://www.paypal.com/cgi-bin/webscr&#34; method=&#34;post&#34; target=&#34;_top&#34;&gt;
+  &lt;input type=&#34;hidden&#34; name=&#34;cmd&#34; value=&#34;_s-xclick&#34;&gt;
+  &lt;input type=&#34;hidden&#34; name=&#34;hosted_button_id&#34; value=&#34;RNNAFX2NESYH4&#34;&gt;
+  &lt;input type=&#34;image&#34; src=&#34;https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif&#34; border=&#34;0&#34; name=&#34;submit&#34; alt=&#34;PayPal - The safer, easier way to pay online!&#34;&gt;
+  &lt;img alt=&#34;&#34; border=&#34;0&#34; src=&#34;https://www.paypalobjects.com/en_US/i/scr/pixel.gif&#34; width=&#34;1&#34; height=&#34;1&#34;&gt;
+&lt;/form&gt;
+
+&lt;p&gt;Your cash donation will go to helping us pay for rent and utilities, purchase equipment and supplies and put on events, meetups and classes!&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;equipment:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Equipment&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Got something awesome you want us to have?&lt;/strong&gt; If you have equipment that you&amp;rsquo;d like to donate, please have a look at our &lt;a href=&#34;http://localhost:1313/wishlist/&#34;&gt;Wishlist page&lt;/a&gt; to see what we&amp;rsquo;re in need of and how equipment donations work at Chimera.&lt;/p&gt;
+
+&lt;h2 id=&#34;volunteering:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Volunteering&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Don&amp;rsquo;t have things or money to donate but want to help?&lt;/strong&gt; We&amp;rsquo;re always looking for people to help us clean and move things, produce events and do odd jobs. If that&amp;rsquo;s interesting to you, please let us know your availability on our &lt;a href=&#34;https://groups.google.com/forum/#!forum/chimera-art-space&#34;&gt;Google Group&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Have a particular skill?&lt;/strong&gt; Then you might want to consider &lt;a href=&#34;http://localhost:1313/about/teaching/&#34;&gt;teaching at Chimera&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;about-your-donation:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;About Your Donation&lt;/h2&gt;
+
+&lt;h3 id=&#34;tax-receipt:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Tax Receipt&lt;/h3&gt;
+
+&lt;p&gt;Since we&amp;rsquo;re a 501(c)3 organization, we can offer tax receipts for valid donations we accept and that are valued. Tax receipts are for relatively large donations. If you donate some post-its&amp;reg;, we&amp;rsquo;re not going to give you a tax receipt.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;If you want a tax receipt for your donation, please let us know otherwise no receipt will be issued!&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;reimbursements:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Reimbursements&lt;/h3&gt;
+
+&lt;p&gt;Chimera does not offer any reimbursements for donations. If you&amp;rsquo;d like to donate something to Chimera and want something in return, the only thing we can offer is a tax receipt (and our thanks!).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
