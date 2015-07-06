@@ -22,6 +22,141 @@
     </item>
     
     <item>
+      <title>C25K Program</title>
+      <link>http://c25k.io/programs/</link>
+      <pubDate>Tue, 19 May 2015 22:35:28 EDT</pubDate>
+      
+      <guid>http://c25k.io/programs/</guid>
+      <description>&lt;table class=&#34;table table-striped&#34;&gt;
+    &lt;thead&gt;
+        &lt;th&gt;&lt;/th&gt;
+        &lt;th&gt;Workout&lt;/th&gt;
+        &lt;th&gt;Details&lt;/th&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+        &lt;tr class=&#34;top-row&#34;&gt;
+            &lt;td rowspan=&#34;3&#34;&gt;&lt;span class=&#34;week&#34;&gt;&lt;b&gt;Week 1&lt;/b&gt;&lt;/span&gt;&lt;/td&gt;
+            &lt;td&gt;Exercise 1&lt;/td&gt;
+            &lt;td&gt; Alternate &lt;b&gt;60 seconds&lt;/b&gt; of jogging and &lt;b&gt;90 seconds&lt;/b&gt; of walking for 20 minutes.&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;Exercise 2&lt;/td&gt;
+            &lt;td&gt; Alternate &lt;b&gt;60 seconds&lt;/b&gt; of jogging and &lt;b&gt;90 seconds&lt;/b&gt; of walking for 20 minutes.&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;Exercise 3&lt;/td&gt;
+            &lt;td&gt; Alternate &lt;b&gt;60 seconds&lt;/b&gt; of jogging and &lt;b&gt;90 seconds&lt;/b&gt; of walking for 20 minutes.&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr class=&#34;top-row&#34;&gt;
+            &lt;td rowspan=&#34;3&#34;&gt;&lt;span class=&#34;week&#34;&gt;Week 2&lt;/span&gt;&lt;/td&gt;
+            &lt;td&gt;Exercise 1&lt;/td&gt;
+            &lt;td&gt; Alternate &lt;b&gt;90 seconds&lt;/b&gt; of jogging and &lt;b&gt;2 minutes&lt;/b&gt; of walking for 20 minutes.&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;Exercise 2&lt;/td&gt;
+            &lt;td&gt; Alternate &lt;b&gt;90 seconds&lt;/b&gt; of jogging and &lt;b&gt;2 minutes&lt;/b&gt; of walking for 20 minutes.&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;Exercise 3&lt;/td&gt;
+            &lt;td&gt; Alternate &lt;b&gt;90 seconds&lt;/b&gt; of jogging and &lt;b&gt;2 minutes&lt;/b&gt; of walking for 20 minutes.&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr class=&#34;top-row&#34;&gt;
+            &lt;td rowspan=&#34;3&#34;&gt;&lt;span class=&#34;week&#34;&gt;Week 3&lt;/span&gt;&lt;/td&gt;
+            &lt;td&gt;Exercise 1&lt;/td&gt;
+            &lt;td&gt;Repeat steps &lt;b&gt;2 times&lt;/b&gt;: &lt;br&gt;Jog for &lt;b&gt;90 seconds&lt;/b&gt; - Walk for &lt;b&gt;90 seconds&lt;/b&gt; - Jog for &lt;b&gt;3 minutes&lt;/b&gt; &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;Exercise 2&lt;/td&gt;
+            &lt;td&gt;Repeat steps &lt;b&gt;2 times&lt;/b&gt;: &lt;br&gt;Jog for &lt;b&gt;90 seconds&lt;/b&gt; - Walk for &lt;b&gt;90 seconds&lt;/b&gt; - Jog for &lt;b&gt;3 minutes&lt;/b&gt; &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;Exercise 3&lt;/td&gt;
+            &lt;td&gt;Repeat steps &lt;b&gt;2 times&lt;/b&gt;: &lt;br&gt;Jog for &lt;b&gt;90 seconds&lt;/b&gt; - Walk for &lt;b&gt;90 seconds&lt;/b&gt; - Jog for &lt;b&gt;3 minutes&lt;/b&gt; &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr class=&#34;top-row&#34;&gt;
+            &lt;td rowspan=&#34;3&#34;&gt;&lt;span class=&#34;week&#34;&gt;Week 4&lt;/span&gt;&lt;/td&gt;
+            &lt;td&gt;Exercise 1&lt;/td&gt;
+            &lt;td&gt;Jog &lt;b&gt;3 minutes&lt;/b&gt; - Walk &lt;b&gt;90 seconds&lt;/b&gt; - Jog &lt;b&gt;5 minutes&lt;/b&gt; - Walk &lt;b&gt;150 seconds&lt;/b&gt; &lt;br&gt; Jog &lt;b&gt;3 minutes&lt;/b&gt; - Walk &lt;b&gt;90 seconds&lt;/b&gt; - Jog &lt;b&gt;5 minutes&lt;/b&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;Exercise 2&lt;/td&gt;
+            &lt;td&gt;Jog &lt;b&gt;3 minutes&lt;/b&gt; - Walk &lt;b&gt;90 seconds&lt;/b&gt; - Jog &lt;b&gt;5 minutes&lt;/b&gt; - Walk &lt;b&gt;150 seconds&lt;/b&gt; &lt;br&gt; Jog &lt;b&gt;3 minutes&lt;/b&gt; - Walk &lt;b&gt;90 seconds&lt;/b&gt; - Jog &lt;b&gt;5 minutes&lt;/b&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;Exercise 3&lt;/td&gt;
+            &lt;td&gt;Jog &lt;b&gt;3 minutes&lt;/b&gt; - Walk &lt;b&gt;90 seconds&lt;/b&gt; - Jog &lt;b&gt;5 minutes&lt;/b&gt; - Walk &lt;b&gt;150 seconds&lt;/b&gt; &lt;br&gt; Jog &lt;b&gt;3 minutes&lt;/b&gt; - Walk &lt;b&gt;90 seconds&lt;/b&gt; - Jog &lt;b&gt;5 minutes&lt;/b&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr class=&#34;top-row&#34;&gt;
+            &lt;td rowspan=&#34;3&#34;&gt;&lt;span class=&#34;week&#34;&gt;Week 5&lt;/span&gt;&lt;/td&gt;
+            &lt;td&gt;Exercise 1&lt;/td&gt;
+            &lt;td&gt;Job &lt;b&gt;5 minutes&lt;/b&gt; - Walk &lt;b&gt;3 minutes&lt;/b&gt; - Job &lt;b&gt;5 minutes&lt;/b&gt; &lt;br&gt; Walk &lt;b&gt;3 minutes&lt;/b&gt; - Jog &lt;b&gt;5 minutes&lt;/b&gt; &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;Exercise 2&lt;/td&gt;
+            &lt;td&gt;Jog &lt;b&gt;8 minutes&lt;/b&gt; - Walk &lt;b&gt;5 minutes&lt;/b&gt; - Jog &lt;b&gt;8 minutes&lt;/b&gt; &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;Exercise 3&lt;/td&gt;
+            &lt;td&gt;Jog &lt;b&gt;20 minutes&lt;/b&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr class=&#34;top-row&#34;&gt;
+            &lt;td rowspan=&#34;3&#34;&gt;&lt;span class=&#34;week&#34;&gt;Week 6&lt;/span&gt;&lt;/td&gt;
+            &lt;td&gt;Exercise 1&lt;/td&gt;
+            &lt;td&gt;Jog 5 minutes - Walk 3 minutes - Jog 8 minutes - Walk 3 minutes - Job 5 minutes&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;Exercise 2&lt;/td&gt;
+            &lt;td&gt;Jog 10 minutes - Walk 3 minutes - Jog 10 minutes&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;Exercise 3&lt;/td&gt;
+            &lt;td&gt;Jog 25 minutes ~ 4 KM &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr class=&#34;top-row&#34;&gt;
+            &lt;td rowspan=&#34;3&#34;&gt;&lt;span class=&#34;week&#34;&gt;Week 7&lt;/span&gt;&lt;/td&gt;
+            &lt;td&gt;Exercise 1&lt;/td&gt;
+            &lt;td&gt;Jog 25 minutes ~ 4 KM &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;Exercise 2&lt;/td&gt;
+            &lt;td&gt;Jog 25 minutes ~ 4 KM &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;Exercise 3&lt;/td&gt;
+            &lt;td&gt;Jog 25 minutes ~ 4 KM &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr class=&#34;top-row&#34;&gt;
+            &lt;td rowspan=&#34;3&#34;&gt;&lt;span class=&#34;week&#34;&gt;Week 8&lt;/span&gt;&lt;/td&gt;
+            &lt;td&gt;Exercise 1&lt;/td&gt;
+            &lt;td&gt;Jog 28 minutes ~ 4.5 KM &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;Exercise 2&lt;/td&gt;
+            &lt;td&gt;Jog 28 minutes ~ 4.5 KM &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;Exercise 3&lt;/td&gt;
+            &lt;td&gt;Jog 28 minutes ~ 4.5 KM &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr class=&#34;top-row&#34;&gt;
+            &lt;td rowspan=&#34;3&#34;&gt;&lt;span class=&#34;week&#34;&gt;Week 9&lt;/span&gt;&lt;/td&gt;
+            &lt;td&gt;Exercise 1&lt;/td&gt;
+            &lt;td&gt;Jog 30 minutes ~ 5 KM &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;Exercise 2&lt;/td&gt;
+            &lt;td&gt;Jog 30 minutes ~ 5 KM &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;Exercise 3&lt;/td&gt;
+            &lt;td&gt;Jog 30 minutes ~ 5 KM &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Inspirations</title>
       <link>http://c25k.io/resources/inspiration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
@@ -66,20 +201,6 @@ If you want to find out what running can mean to someone, read this. If you have
     </item>
     
     <item>
-      <title>Discussions &amp; Support</title>
-      <link>http://c25k.io/resources/discussion/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-      
-      <guid>http://c25k.io/resources/discussion/</guid>
-      <description>
-
-&lt;h2 id=&#34;some-content:1dc9c0714b072133d4c76c3091b74ddb&#34;&gt;Some Content&lt;/h2&gt;
-
-&lt;p&gt;Some content&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Plans</title>
       <link>http://c25k.io/plans/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
@@ -106,6 +227,20 @@ If you want to find out what running can mean to someone, read this. If you have
 &lt;h2 id=&#34;pooch-to-5k-http-www-poochto5k-com:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a href=&#34;http://www.poochto5k.com/&#34;&gt;Pooch to 5k&lt;/a&gt;&lt;/h2&gt;
 
 &lt;p&gt;If you have a dog, why not let him or her also enjoy the benefits of fitness while you are going from Couch to 5k? Developed by Audrey an Australian vet, Pooch to 5k will have you and your dog runnning 5km in just 12 weeks. I love running with my Boxer Gator&amp;hellip;he is like having an instant running partner who is always ready to run when I am.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Discussions &amp; Support</title>
+      <link>http://c25k.io/resources/discussion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+      
+      <guid>http://c25k.io/resources/discussion/</guid>
+      <description>
+
+&lt;h2 id=&#34;some-content:1dc9c0714b072133d4c76c3091b74ddb&#34;&gt;Some Content&lt;/h2&gt;
+
+&lt;p&gt;Some content&lt;/p&gt;
 </description>
     </item>
     
