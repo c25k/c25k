@@ -11,9 +11,8 @@ h3,
 h4,
 h5,
 h6 {
-    /*font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;*/
-    font-family: 'Slabo 27px', serif;
-    font-weight: 400;
+    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 300;
 }
 
 .topnav {
@@ -44,9 +43,9 @@ h6 {
 
 .intro-message > h1 {
     margin: 0;
-    color: #B54156;
-    /*text-shadow: 2px 2px 3px rgba(50, 50, 50, 0.6);*/
-    font-size: 45px;
+    color: #333;
+    text-shadow: 2px 2px 3px rgba(50, 50, 50, 0.6);
+    font-size: 42px;
     margin-bottom: 10px;
 }
 
@@ -55,12 +54,9 @@ h6 {
   background: rgba(255, 255, 255, 0.3);
   padding: 2px;
 }
-.intro-message > h1 > span {
-   color: #B54156;   
-}
 
-.intro-message p span {
-      font-size: 30px;
+.intro-message p>span {
+      font-size: 25px;
 }
 
 .intro-divider {
