@@ -12,16 +12,6 @@
     <atom:link href="http://c25k.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>about</title>
-      <link>http://c25k.io/about/</link>
-      <pubDate>Tue, 19 May 2015 22:35:28 EDT</pubDate>
-      
-      <guid>http://c25k.io/about/</guid>
-      <description>&lt;p&gt;Some Content&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>C25K Program</title>
       <link>http://c25k.io/programs/</link>
       <pubDate>Tue, 19 May 2015 22:35:28 EDT</pubDate>
@@ -30,129 +20,128 @@
       <description>&lt;table class=&#34;table table-striped&#34;&gt;
     &lt;thead&gt;
         &lt;th&gt;&lt;/th&gt;
-        &lt;th&gt;Workout&lt;/th&gt;
-        &lt;th&gt;Details&lt;/th&gt;
+        &lt;th align=&#34;center&#34;&gt;&lt;font color=&#34;#F36743&#34;&gt;Workout &lt;/font&gt;&lt;/th&gt;
+        &lt;th align=&#34;center&#34;&gt;&lt;font color=&#34;#F36743&#34;&gt;Details &lt;/font&gt;&lt;/th&gt;
     &lt;/thead&gt;
     &lt;tbody&gt;
         &lt;tr class=&#34;top-row&#34;&gt;
-            &lt;td rowspan=&#34;3&#34;&gt;&lt;span class=&#34;week&#34;&gt;&lt;b&gt;Week 1&lt;/b&gt;&lt;/span&gt;&lt;/td&gt;
+            &lt;td rowspan=&#34;3&#34;&gt;&lt;span class=&#34;week&#34; &gt;&lt;b&gt;&lt;font color=&#34;#F36743&#34;&gt;Week 1&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/td&gt;
             &lt;td&gt;Exercise 1&lt;/td&gt;
-            &lt;td&gt; Alternate &lt;b&gt;60 seconds&lt;/b&gt; of jogging and &lt;b&gt;90 seconds&lt;/b&gt; of walking for 20 minutes.&lt;/td&gt;
+            &lt;td rowspan=&#34;3&#34; align=&#34;center&#34; style=&#34;vertical-align:middle&#34;&gt; Alternate &lt;b&gt;60 seconds&lt;/b&gt; of jogging &amp; &lt;br&gt; &lt;b&gt;90 seconds&lt;/b&gt; of walking for 20 minutes.&lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
-            &lt;td&gt;Exercise 2&lt;/td&gt;
-            &lt;td&gt; Alternate &lt;b&gt;60 seconds&lt;/b&gt; of jogging and &lt;b&gt;90 seconds&lt;/b&gt; of walking for 20 minutes.&lt;/td&gt;
+            &lt;td&gt;Exercise 2&lt;/td&gt; 
         &lt;/tr&gt;
         &lt;tr&gt;
-            &lt;td&gt;Exercise 3&lt;/td&gt;
-            &lt;td&gt; Alternate &lt;b&gt;60 seconds&lt;/b&gt; of jogging and &lt;b&gt;90 seconds&lt;/b&gt; of walking for 20 minutes.&lt;/td&gt;
+            &lt;td&gt;Exercise 3&lt;/td&gt;       
         &lt;/tr&gt;
         &lt;tr class=&#34;top-row&#34;&gt;
-            &lt;td rowspan=&#34;3&#34;&gt;&lt;span class=&#34;week&#34;&gt;Week 2&lt;/span&gt;&lt;/td&gt;
+            &lt;td rowspan=&#34;3&#34;&gt;&lt;span class=&#34;week&#34;&gt;&lt;b&gt;&lt;font color=&#34;#F36743&#34;&gt;Week 2&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/td&gt;
             &lt;td&gt;Exercise 1&lt;/td&gt;
-            &lt;td&gt; Alternate &lt;b&gt;90 seconds&lt;/b&gt; of jogging and &lt;b&gt;2 minutes&lt;/b&gt; of walking for 20 minutes.&lt;/td&gt;
+            &lt;td rowspan=&#34;3&#34; align=&#34;center&#34; style=&#34;vertical-align:middle&#34;&gt; Alternate &lt;b&gt;90 seconds&lt;/b&gt; of jogging &amp; &lt;br&gt; &lt;b&gt;2 minutes&lt;/b&gt; of walking for 20 minutes.&lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
             &lt;td&gt;Exercise 2&lt;/td&gt;
-            &lt;td&gt; Alternate &lt;b&gt;90 seconds&lt;/b&gt; of jogging and &lt;b&gt;2 minutes&lt;/b&gt; of walking for 20 minutes.&lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
             &lt;td&gt;Exercise 3&lt;/td&gt;
-            &lt;td&gt; Alternate &lt;b&gt;90 seconds&lt;/b&gt; of jogging and &lt;b&gt;2 minutes&lt;/b&gt; of walking for 20 minutes.&lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr class=&#34;top-row&#34;&gt;
-            &lt;td rowspan=&#34;3&#34;&gt;&lt;span class=&#34;week&#34;&gt;Week 3&lt;/span&gt;&lt;/td&gt;
+            &lt;td rowspan=&#34;3&#34;&gt;&lt;span class=&#34;week&#34;&gt;&lt;b&gt;&lt;font color=&#34;#F36743&#34;&gt;Week 3&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/td&gt;
             &lt;td&gt;Exercise 1&lt;/td&gt;
-            &lt;td&gt;Repeat steps &lt;b&gt;2 times&lt;/b&gt;: &lt;br&gt;Jog for &lt;b&gt;90 seconds&lt;/b&gt; - Walk for &lt;b&gt;90 seconds&lt;/b&gt; - Jog for &lt;b&gt;3 minutes&lt;/b&gt; &lt;/td&gt;
+            &lt;td rowspan=&#34;3&#34; align=&#34;center&#34; style=&#34;vertical-align:middle&#34;&gt;Jog for &lt;b&gt;90 seconds&lt;/b&gt; - Walk for &lt;b&gt;90 seconds&lt;/b&gt; - Jog for &lt;b&gt;3 minutes&lt;/b&gt;  &lt;br&gt;Repeat steps &lt;b&gt;2 times&lt;/b&gt;&lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
             &lt;td&gt;Exercise 2&lt;/td&gt;
-            &lt;td&gt;Repeat steps &lt;b&gt;2 times&lt;/b&gt;: &lt;br&gt;Jog for &lt;b&gt;90 seconds&lt;/b&gt; - Walk for &lt;b&gt;90 seconds&lt;/b&gt; - Jog for &lt;b&gt;3 minutes&lt;/b&gt; &lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
             &lt;td&gt;Exercise 3&lt;/td&gt;
-            &lt;td&gt;Repeat steps &lt;b&gt;2 times&lt;/b&gt;: &lt;br&gt;Jog for &lt;b&gt;90 seconds&lt;/b&gt; - Walk for &lt;b&gt;90 seconds&lt;/b&gt; - Jog for &lt;b&gt;3 minutes&lt;/b&gt; &lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr class=&#34;top-row&#34;&gt;
-            &lt;td rowspan=&#34;3&#34;&gt;&lt;span class=&#34;week&#34;&gt;Week 4&lt;/span&gt;&lt;/td&gt;
+            &lt;td rowspan=&#34;3&#34;&gt;&lt;span class=&#34;week&#34;&gt;&lt;b&gt;&lt;font color=&#34;#F36743&#34;&gt;Week 4&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/td&gt;
             &lt;td&gt;Exercise 1&lt;/td&gt;
-            &lt;td&gt;Jog &lt;b&gt;3 minutes&lt;/b&gt; - Walk &lt;b&gt;90 seconds&lt;/b&gt; - Jog &lt;b&gt;5 minutes&lt;/b&gt; - Walk &lt;b&gt;150 seconds&lt;/b&gt; &lt;br&gt; Jog &lt;b&gt;3 minutes&lt;/b&gt; - Walk &lt;b&gt;90 seconds&lt;/b&gt; - Jog &lt;b&gt;5 minutes&lt;/b&gt;&lt;/td&gt;
+            &lt;td rowspan=&#34;3&#34; align=&#34;center&#34; style=&#34;vertical-align:middle&#34;&gt;Jog &lt;b&gt;3 minutes&lt;/b&gt; - Walk &lt;b&gt;90 seconds&lt;/b&gt; - Jog &lt;b&gt;5 minutes&lt;/b&gt; - Walk &lt;b&gt;150 seconds&lt;/b&gt; &lt;br&gt; Repeat steps &lt;b&gt;2 times&lt;/b&gt;&lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
             &lt;td&gt;Exercise 2&lt;/td&gt;
-            &lt;td&gt;Jog &lt;b&gt;3 minutes&lt;/b&gt; - Walk &lt;b&gt;90 seconds&lt;/b&gt; - Jog &lt;b&gt;5 minutes&lt;/b&gt; - Walk &lt;b&gt;150 seconds&lt;/b&gt; &lt;br&gt; Jog &lt;b&gt;3 minutes&lt;/b&gt; - Walk &lt;b&gt;90 seconds&lt;/b&gt; - Jog &lt;b&gt;5 minutes&lt;/b&gt;&lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
             &lt;td&gt;Exercise 3&lt;/td&gt;
-            &lt;td&gt;Jog &lt;b&gt;3 minutes&lt;/b&gt; - Walk &lt;b&gt;90 seconds&lt;/b&gt; - Jog &lt;b&gt;5 minutes&lt;/b&gt; - Walk &lt;b&gt;150 seconds&lt;/b&gt; &lt;br&gt; Jog &lt;b&gt;3 minutes&lt;/b&gt; - Walk &lt;b&gt;90 seconds&lt;/b&gt; - Jog &lt;b&gt;5 minutes&lt;/b&gt;&lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr class=&#34;top-row&#34;&gt;
-            &lt;td rowspan=&#34;3&#34;&gt;&lt;span class=&#34;week&#34;&gt;Week 5&lt;/span&gt;&lt;/td&gt;
+            &lt;td rowspan=&#34;3&#34;&gt;&lt;span class=&#34;week&#34;&gt;&lt;b&gt;&lt;font color=&#34;#F36743&#34;&gt;Week 5&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/td&gt;
             &lt;td&gt;Exercise 1&lt;/td&gt;
-            &lt;td&gt;Job &lt;b&gt;5 minutes&lt;/b&gt; - Walk &lt;b&gt;3 minutes&lt;/b&gt; - Job &lt;b&gt;5 minutes&lt;/b&gt; &lt;br&gt; Walk &lt;b&gt;3 minutes&lt;/b&gt; - Jog &lt;b&gt;5 minutes&lt;/b&gt; &lt;/td&gt;
+            &lt;td align=&#34;center&#34; &gt;Jog &lt;b&gt;5 minutes&lt;/b&gt; - Walk &lt;b&gt;3 minutes&lt;/b&gt; &lt;br&gt; Repeat steps &lt;b&gt;3 times&lt;/b&gt;  &lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
             &lt;td&gt;Exercise 2&lt;/td&gt;
-            &lt;td&gt;Jog &lt;b&gt;8 minutes&lt;/b&gt; - Walk &lt;b&gt;5 minutes&lt;/b&gt; - Jog &lt;b&gt;8 minutes&lt;/b&gt; &lt;/td&gt;
+            &lt;td align=&#34;center&#34;&gt;Jog &lt;b&gt;8 minutes&lt;/b&gt; - Walk &lt;b&gt;5 minutes&lt;/b&gt; &lt;br&gt; Repeat steps &lt;b&gt;2 times&lt;/b&gt; &lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
             &lt;td&gt;Exercise 3&lt;/td&gt;
-            &lt;td&gt;Jog &lt;b&gt;20 minutes&lt;/b&gt;&lt;/td&gt;
+            &lt;td align=&#34;center&#34;&gt;Jog &lt;b&gt;20 minutes&lt;/b&gt;&lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr class=&#34;top-row&#34;&gt;
-            &lt;td rowspan=&#34;3&#34;&gt;&lt;span class=&#34;week&#34;&gt;Week 6&lt;/span&gt;&lt;/td&gt;
+            &lt;td rowspan=&#34;3&#34;&gt;&lt;span class=&#34;week&#34;&gt;&lt;b&gt;&lt;font color=&#34;#F36743&#34;&gt;Week 6&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/td&gt;
             &lt;td&gt;Exercise 1&lt;/td&gt;
-            &lt;td&gt;Jog 5 minutes - Walk 3 minutes - Jog 8 minutes - Walk 3 minutes - Job 5 minutes&lt;/td&gt;
+            &lt;td align=&#34;center&#34;&gt;Jog &lt;b&gt;5 minutes&lt;/b&gt; - Walk &lt;b&gt;3 minutes&lt;/b&gt; &lt;br&gt;
+                 Jog &lt;b&gt;8 minutes&lt;/b&gt; - Walk &lt;b&gt;5 minutes&lt;/b&gt; &lt;br&gt; 
+                 Jog &lt;b&gt;5 minutes&lt;/b&gt;
+            &lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
             &lt;td&gt;Exercise 2&lt;/td&gt;
-            &lt;td&gt;Jog 10 minutes - Walk 3 minutes - Jog 10 minutes&lt;/td&gt;
+            &lt;td align=&#34;center&#34;&gt;Jog &lt;b&gt;10 minutes&lt;/b&gt; - Walk &lt;b&gt;3 minutes&lt;/b&gt; - Jog &lt;b&gt;10 minutes&lt;/b&gt;&lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
             &lt;td&gt;Exercise 3&lt;/td&gt;
-            &lt;td&gt;Jog 25 minutes ~ 4 KM &lt;/td&gt;
+            &lt;td align=&#34;center&#34;&gt;Jog &lt;b&gt;25 minutes&lt;/b&gt; ~ &lt;font color=&#34;#F36743&#34;&gt; 4 KM &lt;/font&gt; &lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr class=&#34;top-row&#34;&gt;
-            &lt;td rowspan=&#34;3&#34;&gt;&lt;span class=&#34;week&#34;&gt;Week 7&lt;/span&gt;&lt;/td&gt;
+            &lt;td rowspan=&#34;3&#34;&gt;&lt;span class=&#34;week&#34;&gt;&lt;b&gt;&lt;font color=&#34;#F36743&#34;&gt;Week 7&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/td&gt;
             &lt;td&gt;Exercise 1&lt;/td&gt;
-            &lt;td&gt;Jog 25 minutes ~ 4 KM &lt;/td&gt;
+            &lt;td rowspan=&#34;3&#34; align=&#34;center&#34; style=&#34;vertical-align:middle&#34;&gt;&lt;b&gt;Jog 25 minutes&lt;/b&gt; ~ &lt;font color=&#34;#F36743&#34;&gt;4 KM &lt;/font&gt;&lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
             &lt;td&gt;Exercise 2&lt;/td&gt;
-            &lt;td&gt;Jog 25 minutes ~ 4 KM &lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
             &lt;td&gt;Exercise 3&lt;/td&gt;
-            &lt;td&gt;Jog 25 minutes ~ 4 KM &lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr class=&#34;top-row&#34;&gt;
-            &lt;td rowspan=&#34;3&#34;&gt;&lt;span class=&#34;week&#34;&gt;Week 8&lt;/span&gt;&lt;/td&gt;
+            &lt;td rowspan=&#34;3&#34;&gt;&lt;span class=&#34;week&#34;&gt;&lt;b&gt;&lt;font color=&#34;#F36743&#34;&gt;Week 8&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/td&gt;
             &lt;td&gt;Exercise 1&lt;/td&gt;
-            &lt;td&gt;Jog 28 minutes ~ 4.5 KM &lt;/td&gt;
+            &lt;td rowspan=&#34;3&#34; align=&#34;center&#34; style=&#34;vertical-align:middle&#34;&gt;&lt;b&gt;Jog 28 minutes&lt;/b&gt; ~ &lt;font color=&#34;#F36743&#34;&gt;4.5 KM &lt;/font&gt;&lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
             &lt;td&gt;Exercise 2&lt;/td&gt;
-            &lt;td&gt;Jog 28 minutes ~ 4.5 KM &lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
             &lt;td&gt;Exercise 3&lt;/td&gt;
-            &lt;td&gt;Jog 28 minutes ~ 4.5 KM &lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr class=&#34;top-row&#34;&gt;
-            &lt;td rowspan=&#34;3&#34;&gt;&lt;span class=&#34;week&#34;&gt;Week 9&lt;/span&gt;&lt;/td&gt;
+            &lt;td rowspan=&#34;3&#34;&gt;&lt;span class=&#34;week&#34;&gt;&lt;b&gt;&lt;font color=&#34;#F36743&#34;&gt;Week 9&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/td&gt;
             &lt;td&gt;Exercise 1&lt;/td&gt;
-            &lt;td&gt;Jog 30 minutes ~ 5 KM &lt;/td&gt;
+            &lt;td rowspan=&#34;3&#34; align=&#34;center&#34; style=&#34;vertical-align:middle&#34;&gt;&lt;b&gt;Jog 30 minutes&lt;/b&gt; ~ &lt;font color=&#34;#F36743&#34;&gt;5 KM &lt;/font&gt;&lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
             &lt;td&gt;Exercise 2&lt;/td&gt;
-            &lt;td&gt;Jog 30 minutes ~ 5 KM &lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
             &lt;td&gt;Exercise 3&lt;/td&gt;
-            &lt;td&gt;Jog 30 minutes ~ 5 KM &lt;/td&gt;
         &lt;/tr&gt;
     &lt;/tbody&gt;
 &lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>http://c25k.io/about/</link>
+      <pubDate>Tue, 19 May 2015 22:35:28 EDT</pubDate>
+      
+      <guid>http://c25k.io/about/</guid>
+      <description>&lt;p&gt;Some Content&lt;/p&gt;
 </description>
     </item>
     
@@ -211,33 +200,6 @@
     </item>
     
     <item>
-      <title>Podcasts</title>
-      <link>http://c25k.io/resources/podcasts/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-      
-      <guid>http://c25k.io/resources/podcasts/</guid>
-      <description>
-
-&lt;h2 id=&#34;robert-ullrey-s-c25k-podcasts:490078144366c347e8b62bdc4bb6103e&#34;&gt;Robert Ullrey&amp;rsquo;s C25K Podcasts&lt;/h2&gt;
-
-&lt;p&gt;Robert has recorded nine podcasts to accompany you on your runs. Some great music, plus Robert will tell you when to run, and when to walk&amp;hellip;a must have.
-How to add mp3 files to your iPod: First save the mp3 files to your hard disk. Then open iTunes and under “File”, go to “Add File to Library”. Browse for the file and add it. Then in iTunes add the file to your iPod.&lt;/p&gt;
-
-&lt;p&gt;Add podcast link &amp;amp; youtube stuff&lt;/p&gt;
-
-&lt;h2 id=&#34;podrunner-intervals-first-day-to-5k-http-www-djsteveboy-com-intervals-html:490078144366c347e8b62bdc4bb6103e&#34;&gt;&lt;a href=&#34;http://www.djsteveboy.com/intervals.html&#34;&gt;Podrunner Intervals: First Day to 5K&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;Mixed by DJ BeatSmith, this first 27-minute set is said to be a great introduction to the world of interval training to start you on your path to a nonstop 5K run! Graham Cairns (who&amp;rsquo;s into the DJ Steveboy stuff) says there are no VERBAL cues to change from walking to running - but a very noticeable musical cue &amp;hellip; and the bpm changing from an obvious jogging speed to an obvious walking one.&lt;/p&gt;
-
-&lt;h2 id=&#34;phedippidations-the-c25k-episode-http-steverunner-blogspot-com-podcasts-fdip86-mp3:490078144366c347e8b62bdc4bb6103e&#34;&gt;&lt;a href=&#34;http://steverunner.blogspot.com/PodCasts/Fdip86.mp3&#34;&gt;Phedippidations: The C25K Episode&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;Listen to Steve Runner, the high priest of running Podcasters talk about the Couch to 5k program. A great background in C25K.&lt;/p&gt;
-
-&lt;p&gt;put this stuff to sound cloud?&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Inspirations</title>
       <link>http://c25k.io/resources/inspiration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
@@ -278,6 +240,33 @@ If you want to find out what running can mean to someone, read this. If you have
 &lt;h2 id=&#34;books-for-inspiration:b8483abfa47fe35ce2582e628562e321&#34;&gt;Books for inspiration&lt;/h2&gt;
 
 &lt;p&gt;Here are four fantastic books I have enjoyed reading that have help inspire me to run.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Podcasts</title>
+      <link>http://c25k.io/resources/podcasts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+      
+      <guid>http://c25k.io/resources/podcasts/</guid>
+      <description>
+
+&lt;h2 id=&#34;robert-ullrey-s-c25k-podcasts:490078144366c347e8b62bdc4bb6103e&#34;&gt;Robert Ullrey&amp;rsquo;s C25K Podcasts&lt;/h2&gt;
+
+&lt;p&gt;Robert has recorded nine podcasts to accompany you on your runs. Some great music, plus Robert will tell you when to run, and when to walk&amp;hellip;a must have.
+How to add mp3 files to your iPod: First save the mp3 files to your hard disk. Then open iTunes and under “File”, go to “Add File to Library”. Browse for the file and add it. Then in iTunes add the file to your iPod.&lt;/p&gt;
+
+&lt;p&gt;Add podcast link &amp;amp; youtube stuff&lt;/p&gt;
+
+&lt;h2 id=&#34;podrunner-intervals-first-day-to-5k-http-www-djsteveboy-com-intervals-html:490078144366c347e8b62bdc4bb6103e&#34;&gt;&lt;a href=&#34;http://www.djsteveboy.com/intervals.html&#34;&gt;Podrunner Intervals: First Day to 5K&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Mixed by DJ BeatSmith, this first 27-minute set is said to be a great introduction to the world of interval training to start you on your path to a nonstop 5K run! Graham Cairns (who&amp;rsquo;s into the DJ Steveboy stuff) says there are no VERBAL cues to change from walking to running - but a very noticeable musical cue &amp;hellip; and the bpm changing from an obvious jogging speed to an obvious walking one.&lt;/p&gt;
+
+&lt;h2 id=&#34;phedippidations-the-c25k-episode-http-steverunner-blogspot-com-podcasts-fdip86-mp3:490078144366c347e8b62bdc4bb6103e&#34;&gt;&lt;a href=&#34;http://steverunner.blogspot.com/PodCasts/Fdip86.mp3&#34;&gt;Phedippidations: The C25K Episode&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Listen to Steve Runner, the high priest of running Podcasters talk about the Couch to 5k program. A great background in C25K.&lt;/p&gt;
+
+&lt;p&gt;put this stuff to sound cloud?&lt;/p&gt;
 </description>
     </item>
     
