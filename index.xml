@@ -12,7 +12,17 @@
     <atom:link href="http://c25k.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>C25K Program</title>
+      <title>about</title>
+      <link>http://c25k.io/about/</link>
+      <pubDate>Tue, 19 May 2015 22:35:28 EDT</pubDate>
+      
+      <guid>http://c25k.io/about/</guid>
+      <description>&lt;p&gt;Some Content&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>9 Week Program to Start Running 5K</title>
       <link>http://c25k.io/programs/</link>
       <pubDate>Tue, 19 May 2015 22:35:28 EDT</pubDate>
       
@@ -136,16 +146,6 @@
     </item>
     
     <item>
-      <title>about</title>
-      <link>http://c25k.io/about/</link>
-      <pubDate>Tue, 19 May 2015 22:35:28 EDT</pubDate>
-      
-      <guid>http://c25k.io/about/</guid>
-      <description>&lt;p&gt;Some Content&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Plans</title>
       <link>http://c25k.io/plans/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
@@ -200,6 +200,33 @@
     </item>
     
     <item>
+      <title>Podcasts</title>
+      <link>http://c25k.io/resources/podcasts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+      
+      <guid>http://c25k.io/resources/podcasts/</guid>
+      <description>
+
+&lt;h2 id=&#34;robert-ullrey-s-c25k-podcasts:490078144366c347e8b62bdc4bb6103e&#34;&gt;Robert Ullrey&amp;rsquo;s C25K Podcasts&lt;/h2&gt;
+
+&lt;p&gt;Robert has recorded nine podcasts to accompany you on your runs. Some great music, plus Robert will tell you when to run, and when to walk&amp;hellip;a must have.
+How to add mp3 files to your iPod: First save the mp3 files to your hard disk. Then open iTunes and under “File”, go to “Add File to Library”. Browse for the file and add it. Then in iTunes add the file to your iPod.&lt;/p&gt;
+
+&lt;p&gt;Add podcast link &amp;amp; youtube stuff&lt;/p&gt;
+
+&lt;h2 id=&#34;podrunner-intervals-first-day-to-5k-http-www-djsteveboy-com-intervals-html:490078144366c347e8b62bdc4bb6103e&#34;&gt;&lt;a href=&#34;http://www.djsteveboy.com/intervals.html&#34;&gt;Podrunner Intervals: First Day to 5K&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Mixed by DJ BeatSmith, this first 27-minute set is said to be a great introduction to the world of interval training to start you on your path to a nonstop 5K run! Graham Cairns (who&amp;rsquo;s into the DJ Steveboy stuff) says there are no VERBAL cues to change from walking to running - but a very noticeable musical cue &amp;hellip; and the bpm changing from an obvious jogging speed to an obvious walking one.&lt;/p&gt;
+
+&lt;h2 id=&#34;phedippidations-the-c25k-episode-http-steverunner-blogspot-com-podcasts-fdip86-mp3:490078144366c347e8b62bdc4bb6103e&#34;&gt;&lt;a href=&#34;http://steverunner.blogspot.com/PodCasts/Fdip86.mp3&#34;&gt;Phedippidations: The C25K Episode&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Listen to Steve Runner, the high priest of running Podcasters talk about the Couch to 5k program. A great background in C25K.&lt;/p&gt;
+
+&lt;p&gt;put this stuff to sound cloud?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Inspirations</title>
       <link>http://c25k.io/resources/inspiration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
@@ -240,33 +267,6 @@ If you want to find out what running can mean to someone, read this. If you have
 &lt;h2 id=&#34;books-for-inspiration:b8483abfa47fe35ce2582e628562e321&#34;&gt;Books for inspiration&lt;/h2&gt;
 
 &lt;p&gt;Here are four fantastic books I have enjoyed reading that have help inspire me to run.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Podcasts</title>
-      <link>http://c25k.io/resources/podcasts/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-      
-      <guid>http://c25k.io/resources/podcasts/</guid>
-      <description>
-
-&lt;h2 id=&#34;robert-ullrey-s-c25k-podcasts:490078144366c347e8b62bdc4bb6103e&#34;&gt;Robert Ullrey&amp;rsquo;s C25K Podcasts&lt;/h2&gt;
-
-&lt;p&gt;Robert has recorded nine podcasts to accompany you on your runs. Some great music, plus Robert will tell you when to run, and when to walk&amp;hellip;a must have.
-How to add mp3 files to your iPod: First save the mp3 files to your hard disk. Then open iTunes and under “File”, go to “Add File to Library”. Browse for the file and add it. Then in iTunes add the file to your iPod.&lt;/p&gt;
-
-&lt;p&gt;Add podcast link &amp;amp; youtube stuff&lt;/p&gt;
-
-&lt;h2 id=&#34;podrunner-intervals-first-day-to-5k-http-www-djsteveboy-com-intervals-html:490078144366c347e8b62bdc4bb6103e&#34;&gt;&lt;a href=&#34;http://www.djsteveboy.com/intervals.html&#34;&gt;Podrunner Intervals: First Day to 5K&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;Mixed by DJ BeatSmith, this first 27-minute set is said to be a great introduction to the world of interval training to start you on your path to a nonstop 5K run! Graham Cairns (who&amp;rsquo;s into the DJ Steveboy stuff) says there are no VERBAL cues to change from walking to running - but a very noticeable musical cue &amp;hellip; and the bpm changing from an obvious jogging speed to an obvious walking one.&lt;/p&gt;
-
-&lt;h2 id=&#34;phedippidations-the-c25k-episode-http-steverunner-blogspot-com-podcasts-fdip86-mp3:490078144366c347e8b62bdc4bb6103e&#34;&gt;&lt;a href=&#34;http://steverunner.blogspot.com/PodCasts/Fdip86.mp3&#34;&gt;Phedippidations: The C25K Episode&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;Listen to Steve Runner, the high priest of running Podcasters talk about the Couch to 5k program. A great background in C25K.&lt;/p&gt;
-
-&lt;p&gt;put this stuff to sound cloud?&lt;/p&gt;
 </description>
     </item>
     
