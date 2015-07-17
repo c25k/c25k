@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Apps on Couch to 5K</title>
-    <link>http://c25k.io/apps/</link>
-    <description>Recent content in Apps on Couch to 5K</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-    
-    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 UTC</lastBuildDate>
-    <atom:link href="http://c25k.io/apps/index.xml" rel="self" type="application/rss+xml" />
+      <title>Apps on C25Kio - Start Running </title>
+    <link>http://www.c25k.io.com/apps/</link>
+    <language>en-US</language>
+    <author>Enthusiastic Hugo User</author>
+    <rights>Copyright (c) 2014, Enthusiastic Hugo User; all rights reserved.</rights>
+    <updated>Mon, 01 Jan 0001 00:00:00 UTC</updated>
     
     <item>
       <title>Apps</title>
-      <link>http://c25k.io/apps/</link>
+      <link>http://www.c25k.io.com/apps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-      
-      <guid>http://c25k.io/apps/</guid>
+      <author>Enthusiastic Hugo User</author>
+      <guid>http://www.c25k.io.com/apps/</guid>
       <description>&lt;p&gt;s&lt;/p&gt;
 </description>
     </item>
