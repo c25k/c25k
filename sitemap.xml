@@ -2,43 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://www.c25k.io/</loc>
     <lastmod>2015-05-19T22:35:28-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://www.c25k.io/about/</loc>
     <lastmod>2015-05-19T22:35:28-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/programs/</loc>
+    <loc>http://www.c25k.io/programs/</loc>
     <lastmod>2015-05-19T22:35:28-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/apps/</loc>
+    <loc>http://www.c25k.io/apps/</loc>
     <lastmod>0001-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/resources/discussion/</loc>
+    <loc>http://www.c25k.io/plans/</loc>
     <lastmod>0001-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/resources/inspiration/</loc>
+    <loc>http://www.c25k.io/resources/discussion/</loc>
     <lastmod>0001-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/resources/podcasts/</loc>
+    <loc>http://www.c25k.io/resources/inspiration/</loc>
     <lastmod>0001-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/plans/</loc>
+    <loc>http://www.c25k.io/resources/podcasts/</loc>
     <lastmod>0001-01-01T00:00:00+00:00</lastmod>
   </url>
   
